@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat|Pacifico&display=swap');
+
+ul {
+	list-style-type: none;
+	display: flex;
+	padding: 15px 20px;
+}
+
+nav a {
+	padding: 15px 20px;
+	font-family: 'Caveat', cursive;
+	font-size: 35px;
+	text-shadow: 2px 3px #B6C6C0;
+	color: #252827;
+	text-decoration: none;
+	border: 2px solid #1B2B56;
+	border-radius: 10px;
+	margin: 15px 20px;
+	background: #759EFF;
+}
+
+.Brawl {
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+
+p{
+	font-family: 'Pacifico', cursive;
+	font-size: 30px;
+}
+
+.game {
+	display: flex;
+	padding: 15px 20px;
+	justify-content: center;
+	color: #0C2238;
+	background: #AAC8FF;
+	margin-right: -8px;
+	margin-left: -8px;
+}
+
+.play {
+	display: flex;
+	color: #0C2238;
+	margin: 5px 5px;
+	justify-content: space-around;
+	background: #9DB9EA;
+	margin-right: -8px;
+	margin-left: -8px;
+	margin-top:-10px;
+	align-items: center;
+}
+
+.movie {
+	display: flex;
+	justify-content: center;
+	padding: 40px 40px;
+	background: #8AA2CC;
+	margin-right: -8px;
+	margin-left: -8px;
+	margin-top:-10px;
+}
+
+.movie2 {
+	display: flex;
+	flex-direction: row;
+	margin: 15px 20px;
+
+}
+
+.table {
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+	border: 2px solid #1B2B56 ;
+	background: #759EFF;
+}
+
+td {
+	border: 2px solid #1B2B56 ;
+	background: #4787FF;
+}
+
+.tablediv
+{
+	display: flex;
+	align-items: flex-end;
+	background: #56657F;
+	margin-right: -8px;
+	margin-left: -8px;
+	margin-top:-10px;
+}
+
+.tableimg {
+	height: 399px;
+}
+
+.footer {
+		background: #181919;
+		margin-left: -8px;
+		color: #EAEAEA;
+		font-family: 'Caveat', cursive;
+		font-size: 50px;
+		padding: 15px 20px;
+		margin-top: 10px;
+		margin-right: -8px;
+		margin-bottom: -50px;
+		
+}
+
+.footerdiv2 {
+	font-size: 30px;
+}
+
+.footerdiv {
+	display: flex;
+	align-items: flex-end;
+}
+
+.footerdivP {
+	display: flex;
+}
+
+.footerdiv3 {
+	display: flex;
+	align-items: flex-end;
+}
+
+.footer a {
+	text-decoration: none;
+}
+
+.player {
+	background: #667796;
+	margin-right: -8px;
+	margin-left: -8px;
+	margin-top:-10px;
+	margin-bottom: 10px;
+}
+
+.buy {
+	display: flex;
+	background: #242A35;
+	margin-right: -8px;
+	margin-left: -8px;
+	margin-bottom: -10px;
+	align-items: center;
+	color: #EAEAEA;
+}
+
+nav a:hover {
+	background: #48629E;
+}
