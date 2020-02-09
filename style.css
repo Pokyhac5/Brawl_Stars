@@ -151,3 +151,9 @@ td {
 nav a:hover {
 	background: #48629E;
 }
+
+.body background {
+	background-attachment: fixed;
+	background-repeat: repeat;
+	background-size: cover;
+}
